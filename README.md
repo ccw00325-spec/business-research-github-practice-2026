@@ -84,7 +84,8 @@ CJM에서 나온 Pain을 점수로 세워, 손댈 순서를 정하는 도구입�
 
 | 문서 | 내용 |
 |---|---|
-| [기회점수 산출 방법론](./OS/기회점수-AOS-방법론.md) | OS 수식의 이중 계상 문제와 AOS 보정, 사분면 해석, 5단계 워크플로우, 시장 가중형 DOS로의 확장 |
+| [기회점수 산출 방법론](./OS/기회점수-AOS-방법론.md) | OS 수식의 이중 계상 문제와 AOS 보정, 사분면 해석, 5단계 워크플로우 |
+| [DOS 시장 가중형 방법론](./OS/DOS-시장가중형-방법론.md) | Market Relevance 산정 5단계, 음수의 의미, 프롬프트 템플릿, 이 프로젝트의 모수 판단 |
 | [OS01 — CJM 기반 Pain·Goal 리스트](./OS/OS01-CJM-Pain-리스트.md) | 페르소나 12인 × 대표 Pain 3 = 36개, Goal 2층위와 유형·상태 분류, AOS 대상 25개 확정 |
 | [OS02 — AOS 산출과 Opportunity Matrix](./OS/OS02-AOS-산출.md) | 25개의 Importance·Satisfaction 채점, AOS 계산과 순위, 중앙값 기준 사분면 배치 |
 
